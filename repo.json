@@ -1,5 +1,8 @@
 {
-  "name": "MessageTags",
-  "description": "Create custom message tags with Bunny.",
-  "main": "messageTags.js"
+  "name": "Message Tags Plugin",
+  "description": "Create and manage custom message tags.",
+  "author": "xestox",
+  "version": "1.0.0",
+  "repository": "https://github.com/yourusername/Bunny-messagetag-plugin",
+  "main": "index.js"
 }
